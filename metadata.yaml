@@ -1,0 +1,42 @@
+_repo: To-the-Last-Man_2070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: "To the Last Man: A Story of the Pleasant Valley War is a western novel\
+  \ written by Zane Grey.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Western
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2070'
+  wikidata: Q7811278
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'Vendetta -- Fiction'
+- !lcsh 'Arizona -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Cattle stealing -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: To the Last Man
+url: http://www.gutenberg.org/ebooks/2070
+wikipedia:
+- https://en.wikipedia.org/wiki/To_the_Last_Man_(Grey_novel)
+- https://pt.wikipedia.org/wiki/To_the_Last_Man_(livro)
